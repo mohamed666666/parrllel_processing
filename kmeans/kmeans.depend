@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1652574716 source:/home/mohamed/projects/HPC/kmeans/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<omp.h>
+
